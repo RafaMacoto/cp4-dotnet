@@ -2,7 +2,9 @@ GeoMaster API (CP4)
 
 👥 Integrantes
 RM556270 - Bianca Vitoria - 2TDSPZ
+
 RM558976 Maria Eduarda Pires Vieira - 2TDSPZ
+
 RM554992 - Rafael Macoto Magalhães Seo - 2TDSPZ
 
 
